@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img" aria-label="Ilustrace města">
+<rect width="480" height="300" fill="#e3ede5"/><circle cx="348" cy="58" r="27" fill="#efdca1"/><path d="M0 208q120-80 240-15t240-6v113H0Z" fill="#b8d5bf"/><path d="M0 242q140-45 260-10t220-7v75H0Z" fill="#91b99b"/>
+<g stroke="#365f45" stroke-width="4" stroke-linejoin="round"><path d="M87 223v-79l57-32 57 32v79Z" fill="#dbe8d5"/><path d="m83 144 61-43 62 43" fill="none"/><path d="M137 223v-48h22v48" fill="#aac3a9"/><path d="M106 160h18v19h-18z" fill="#9fc7b2"/><path d="M214 222V116h86v106Z" fill="#d9e4cb"/><path d="m205 116 52-34 51 34Z" fill="#577d61"/><path d="M240 222v-48h23v48" fill="#aac3a9"/><path d="M322 229v-73h61v73Z" fill="#f0e8ce"/><path d="m315 156 37-30 37 30Z" fill="#5f8869"/></g><path d="M0 260q130-25 240 13t240-7" fill="none" stroke="#e5eee0" stroke-width="14"/>
+</svg>

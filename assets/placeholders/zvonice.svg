@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img" aria-label="Ilustrace zvonice">
+<rect width="480" height="300" fill="#e3ede5"/><circle cx="355" cy="60" r="28" fill="#f1df9c" opacity=".88"/><path d="M0 225Q110 160 215 219T480 193V300H0Z" fill="#c2d7c5"/><path d="M0 251Q115 213 250 246T480 223V300H0Z" fill="#96bba1"/>
+<g fill="none" stroke="#315b41" stroke-linejoin="round" stroke-linecap="round"><path d="M188 236 208 148h64l20 88Z" fill="#b2c5ad" stroke-width="5"/><path d="m203 148 12-23h51l12 23Z" fill="#789d82" stroke-width="4"/><path d="M215 125V83h51v42Z" fill="#6f9378" stroke-width="5"/><path d="m208 83 33-39 32 39Z" fill="#315b41" stroke-width="3"/><path d="M238 44V28" stroke-width="4"/><path d="M235 103h12v15h-12z" fill="#d9e8d6" stroke-width="2"/><path d="M234 236v-34q7-11 14 0v34" stroke-width="4"/><path d="M204 167h72M198 197h84" opacity=".4" stroke-width="2"/></g>
+<g fill="#679c72" opacity=".8"><path d="M96 248v-95l-24 37 19-3-24 30h59l-25-30 19 3-24-37"/><path d="M373 247v-100l-26 41 21-4-25 34h62l-27-34 22 4-27-41"/></g>
+</svg>
