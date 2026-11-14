@@ -53,3 +53,11 @@ Příspěvky se při zobrazování HTML escapují (předchází se vložení HTM
 ## Použití fotografií
 
 Fotografie se načítají z Wikimedia Commons za podmínek Creative Commons Attribution-ShareAlike. Viz [FOTO-A-LICENCE.md](FOTO-A-LICENCE.md). Web bez připojení k internetu načte vše kromě těchto externích fotografií a odkazů na oficiální portály.
+
+## Kompaktní verze – listopad 2026
+
+Tato aktualizace **zmenšuje horní panel (hlavičku i úvodní banner)** a skládá obsah úvodní stránky na běžném desktopu do kompaktního rozvržení. Na mobilu zůstává web přirozeně rolovací, aby byly odkazy a ovládání čitelné. Při velmi nízkém okně, výrazně zvětšeném písmu nebo přiblížení stránky se může svislý posuv objevit, aby žádná funkce nebyla nedostupná.
+
+Na již zveřejněném GitHub Pages repozitáři `novy_web_rtyne` stačí nahradit soubor `assets/styles.css` novou verzí. Ostatní soubory zůstaly stejné. Celý ZIP lze použít také pro kompletní aktualizaci repozitáře.
+
+**Zobrazení podle výšky okna:** Na nižších desktopech (do 880 px výšky okna) úvodní rozcestník zobrazuje čtyři hlavní sekce bez doplňkové lišty aktualit a upozornění; důležité odkazy zůstávají v sekci Pro občany, v menu a na dalších stránkách. Na vyšších monitorech se zobrazují i aktuality. Spolky jsou na desktopu dostupné přímo v horním menu.
